@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td><strong>Nginx with two replicas</strong></td>
-      <td>Two-replica Nginx deployment</td>
+      <td>create an nginx:latest deployment with 2 replicas</td>
       <td>An Nginx deployment with specified nginx:latest image and 2 replicas</td>
       <td>https://github.com/bicyclecat/prompt-yaml-gen/blob/main/yaml/nginx-deployment-two-replicas.yaml</td>
     </tr>
